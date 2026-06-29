@@ -5,7 +5,8 @@ Table
 File	Description
 app.py	Main Flask application with full detection engine
 requirements.txt	Python dependencies
-README.md	Complete GitHub repository description
+README.md	Complete GitHub repository description s
+
 LICENSE	MIT License
 PROJECT_SUMMARY.txt	Detailed project documentation
 Templates (8 HTML files in /templates/)
